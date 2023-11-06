@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,reactjs,html,tailwindcss,vite,git,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,tailwindcss,vite,git,css)](https://skills.thijs.gg)
 
 
 
