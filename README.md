@@ -5,9 +5,8 @@
 </br> 
 </br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-<p align="left"> <a href="https://twitter.com/thatRedPillGuy" target="blank"><img src="https://img.shields.io/twitter/follow/thatRedPillGuy?logo=twitter&style=for-the-badge" alt="follow me on twitter" /></a> </p>
+<p align="center"> <a href="https://twitter.com/thatRedPillGuy" target="blank"><img src="https://img.shields.io/twitter/follow/thatRedPillGuy?logo=twitter&style=for-the-badge" alt="follow me on twitter" /></a> </p>
 
 <!-- - 🔭 I’m currently working on **Freelance Project** -->
 
@@ -35,8 +34,9 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thatRedPillGuy&theme=react&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatRedPillGuy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatRedPillGuy&langs_count=8&layout=compact)
 
 
