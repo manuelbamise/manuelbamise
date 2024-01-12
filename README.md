@@ -35,7 +35,13 @@
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=thatRedPillGuy&theme=react&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelbamise&show_icons=true&theme=cobalt)
+## 📈 Github Status
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JobaAdewumi&theme=radical)-->
+<a href="http://www.github.com/manuelbamise"><img src="https://github-readme-stats.vercel.app/api?username=manuelbamise&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Emmanuel Tobi's GitHub stats" /></a>
 
+<a href="http://www.github.com/manuelbamise"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelbamise&stroke=ec4899&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+
+<a href="http://www.github.com/manuelbamise"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=manuelbamise&bg_color=1c1917&color=ec4899&line=0891b2&point=ec4899&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/manuelbamise" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbamise&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
