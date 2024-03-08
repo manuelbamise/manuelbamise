@@ -16,7 +16,6 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/manuelbamise" target="blank"><img src="https://img.shields.io/twitter/follow/manuelbamise?logo=twitter&style=for-the-badge" alt="follow me on twitter" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
