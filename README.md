@@ -1,21 +1,22 @@
 
+### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Emmanuel Oluwabamise Tobi</h1>
-<h3 align="center">Frontend Developer</h3>
-</br> 
-</br>
+### I'm Emmanuel, a self-taught developer on a journey from recruitment to software development, driven by a passion for problem-solving and technology.
 
+🧠 I'm currently in university studying computer science and i have experience in video editing, content writing and graphics design. I'm a people person and thrive the most working in a fast-paced and multicultural environment. As a content writer, I have gained experience in research, trend surfing, and implementing efficient processes.
 
-<p align="center"> <a href="https://twitter.com/manuelbamise" target="blank"><img src="https://img.shields.io/twitter/follow/manuelbamise?logo=twitter&style=for-the-badge" alt="follow me on twitter" /></a> </p>
+🖥️ Currently, I'm developing my skills through learning building projects on the side and reading PDFs to develop my skills in react and typescript.
 
-<!-- - 🔭 I’m currently working on **Freelance Project** -->
+🌱 My tech stack includes JavaScript,React, CSS, HTML, Tailwindcss, Bootstrap, Git, and SCSS. I'm constantly learning and exploring new technologies to broaden my expertise.
 
-- 🌱 I’m currently a **Javascript Developer**
-
-- 💬 I'm open to any junior developer role
+🔭 Connect with me on [[X/Twitter]](https://twitter.com/manuelbamise) to follow my tech journey and engage in meaningful discussions!
 
 - 📫 How to reach me **etobi1930@gmail.com**
 
+
+
+
+<p align="center"> <a href="https://twitter.com/manuelbamise" target="blank"><img src="https://img.shields.io/twitter/follow/manuelbamise?logo=twitter&style=for-the-badge" alt="follow me on twitter" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,13 +24,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emmanuel-tobi-511b6521b/)
 [<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manuelbamise)
 [<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://instagram.com/manuelbamise)
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,tailwindcss,vite,git,css)](https://skills.thijs.gg)
-
 
 
 
