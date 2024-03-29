@@ -37,7 +37,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emmanuel-tobi-511b6521b/)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emmanuel-tobi-5197512b2/)
 [<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manuelbamise)
 [<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://instagram.com/manuelbamise)
 
