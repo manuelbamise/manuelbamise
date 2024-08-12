@@ -34,7 +34,6 @@
 
 🔭 Connect with me on [[X/Twitter]](https://twitter.com/manuelbamise) to follow my tech journey and engage in meaningful discussions!
 
-- 📫 How to reach me via email: **etobi1930@gmail.com**
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emmanuel-tobi-5197512b2/)
