@@ -1,11 +1,24 @@
-# Emmanuel Tobi
+Hi, I'm Emmanuel, a passionate and self-taught full-stack developer with 5 years of coding experience and a solid background in frontend development. I have been working professionally for the past few months, combining my love for technology and critical thinking with hands-on problem-solving in real-world applications. I am driven by the pursuit of continuous learning and building scalable and maintainable applications.
 
+🛠️ Skills & Technologies:
+Frontend: HTML, CSS, JavaScript, TypeScript, PHP
+Backend: NestJS, Node.js, TypeORM, PostgreSQL, mongo
+Tools & Platforms: Git, dbeaver, VSCode
+Other Interests: Anime, business, philosophy
 
-### I'm a self-taught developer on a journey of software development, driven by a passion for problem-solving and technology.
+🚀 What I Do:
+-Build dynamic and interactive web applications
+-Develop robust backend APIs using modern JavaScript frameworks (NestJS)
+-Implement secure and efficient authentication systems
+-Architect database schemas and optimize queries with PostgreSQL
+-Integrate third-party services and APIs to enhance functionality
 
-🧠 I'm currently in university studying computer science and i have experience in video editing, content writing and graphics design. I'm a people person and thrive the most working in a fast-paced and multicultural environment. As a content writer, I have gained experience in research, trend surfing, and implementing efficient processes.
+🌱 Currently Exploring:
+-Advanced backend architectures
+-Advanced methods of securing endpoints.
 
-🖥️ Currently, I'm developing my skills through learning building projects on the side and reading PDFs to develop my skills in react and typescript.
+👯‍♂️ Let’s Collaborate!
+I’m open to working on exciting projects, contributing to open-source initiatives, and learning from fellow developers. Let's connect if you’re looking for someone who is detail-oriented and passionate about solving complex problems.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
