@@ -63,7 +63,13 @@
   <br/>
 </a>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=manuelbamise&theme=gruvbox&border_radius=4.5) -->
+</p>
+
+<p align="center">
+<a href="https://github.com/manuelbamise" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelbamise&theme=dark&hide_border=true&background=1c1917&stroke=0891b2&ring=0891b2&fire=ff7600&currStreakLabel=ffffff" alt="GitHub Streak Stats" />
+</a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
