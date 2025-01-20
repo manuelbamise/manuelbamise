@@ -1,21 +1,15 @@
-Hi, I'm Emmanuel, a passionate and self-taught full-stack developer with 5 years of coding experience and a solid background in frontend development. I have been working professionally for the past few months, combining my love for technology and critical thinking with hands-on problem-solving in real-world applications. I am driven by the pursuit of continuous learning and building scalable and maintainable applications.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuelbamise&label=Profile%20views&color=0e75b6&style=flat" alt="manuelbamise" /> </p>
+ <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/88f8eacb-f480-4529-841d-5689258888d2.svg" alt="manuelbamise" /></p>
 
-🛠️ Skills & Technologies:
-Frontend: HTML, CSS, JavaScript, TypeScript, PHP
-Backend: NestJS, Node.js, TypeORM, PostgreSQL, mongo
-Tools & Platforms: Git, dbeaver, VSCode
-Other Interests: Anime, business, philosophy
+<h2 align="center" style="font-size:1rem">Hi 👋, I'm Emmanuel</h2>
 
-🚀 What I Do:
--Build dynamic and interactive web applications
--Develop robust backend APIs using modern JavaScript frameworks (NestJS)
--Implement secure and efficient authentication systems
--Architect database schemas and optimize queries with PostgreSQL
--Integrate third-party services and APIs to enhance functionality
+A self-taught full-stack developer with nearly 6 years of coding experience and a solid background in frontend development. I have been working professionally for the past year, combining my love for technology and critical thinking with hands-on problem-solving in real-world applications. I am driven by the pursuit of continuous learning and building scalable and maintainable applications.
 
-🌱 Currently Exploring:
--Advanced backend architectures
--Advanced methods of securing endpoints.
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuelbamise&theme=onedark" alt="manuelbamise" /></a> </p>
+
+
 
 👯‍♂️ Let’s Collaborate!
 I’m open to working on exciting projects, contributing to open-source initiatives, and learning from fellow developers. Let's connect if you’re looking for someone who is detail-oriented and passionate about solving complex problems.
@@ -29,9 +23,12 @@ I’m open to working on exciting projects, contributing to open-source initiati
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
