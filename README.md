@@ -1,18 +1,33 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuelbamise&label=Profile%20views&color=0e75b6&style=flat" alt="manuelbamise" /> </p>
  <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/88f8eacb-f480-4529-841d-5689258888d2.svg" alt="manuelbamise" /></p>
 
-<h2 align="center" style="font-size:1rem">Hi 👋, I'm Emmanuel</h2>
+<h1 style="font-size:4rem">Hi 👋, I'm Emmanuel</h1>
 
-A self-taught full-stack developer with nearly 6 years of coding experience and a solid background in frontend development. I have been working professionally for the past year, combining my love for technology and critical thinking with hands-on problem-solving in real-world applications. I am driven by the pursuit of continuous learning and building scalable and maintainable applications.
+A self-taught full-stack developer with over half a decade coding experience where I enjoy designing clean architectures, building scalable APIs, and creating tools that solve real problems.
+I am a critical thinker and someone deeply curious about how technology, philosophy, and systems shape our world.
+I am driven by the pursuit of continuous learning and building scalable and maintainable applications. <br>
 
+Beyond code, I’m passionate about entrepreneurship and the creator economy. I believe in building useful tools and documenting the journey — which led me to start my [Youtube channel][youtube] , where I share tutorials, tech insights, and thoughts on personal growth, productivity, and creativity. <br>
 
+I also run a [Telegram community][telegram], where I bring together developers, thinkers, and curious minds. We talk about software development, philosophy, and real-life lessons from building, learning, and experimenting. <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuelbamise&theme=onedark" alt="manuelbamise" /></a> </p>
+You’ll often find me diving into books on systems thinking, ethics, or self-mastery — or unwinding with a bit of anime and manga, which I deeply appreciate for its storytelling, emotional depth, and philosophy. <br>
 
+<h4>Currently, I’m focused on:</h4>
 
+<ul>
+<li>Building software products that matter — especially in the edtech and community space </li>
 
-👯‍♂️ Let’s Collaborate!
-I’m open to working on exciting projects, contributing to open-source initiatives, and learning from fellow developers. Let's connect if you’re looking for someone who is detail-oriented and passionate about solving complex problems.
+<li>Creating and sharing valuable content across my social platforms</li>
+
+<li>Growing my skills in backend systems, UI development, and product design </li>
+
+<li>Connecting with like-minded builders, creators, and mentors </li>
+
+</ul>
+
+<h4>👯‍♂️ Let’s Collaborate!</h4>
+If you’re into tech, ideas, or personal growth — let’s connect. I’m always open to great conversations, collaborations, or simply exchanging insights.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -89,3 +104,6 @@ I’m open to working on exciting projects, contributing to open-source initiati
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelbamise&theme=radical" alt="Emmanuel's GitHub Contribution"/>
   </a>
 </p>
+
+[youtube]: https://youtube.com/@manuelbamise1
+[telegram]: https://t.me/manuelbamise1
