@@ -9,8 +9,6 @@ I am driven by the pursuit of continuous learning and building scalable and main
 
 Beyond code, I’m passionate about entrepreneurship and the creator economy. I believe in building useful tools and documenting the journey — which led me to start my [Youtube channel][youtube] , where I share tutorials, tech insights, and thoughts on personal growth, productivity, and creativity. <br>
 
-I also run a [Telegram community][telegram], where I bring together developers, thinkers, and curious minds. We talk about software development, philosophy, and real-life lessons from building, learning, and experimenting. <br>
-
 You’ll often find me diving into books on systems thinking, ethics, or self-mastery — or unwinding with a bit of anime and manga, which I deeply appreciate for its storytelling, emotional depth, and philosophy. <br>
 
 <h4>Currently, I’m focused on:</h4>
