@@ -6,7 +6,7 @@
 - 🎓 Undergraduate Computer Science student
 - 💻 6+ years of self-taught engineering experience
 - 🎯 Focus on full-stack development and creating practical solutions
-- 🎥 Content creator on [Youtube](https://youtube.com/@sachiyabamise)
+- 🎥 Content creator
 - 🎌 Anime and manga enthusiast
 
 ## 🛠️ Tech Stack & Tools
