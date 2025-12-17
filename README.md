@@ -1,20 +1,23 @@
  <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/88f8eacb-f480-4529-841d-5689258888d2.svg" alt="manuelbamise" /></p>
 
-# Hi there, I'm [bamise](https://bamise-portfolio.vercel.app) !
-**Software Engineer | Digital creator**
 
 ## About me
 
-- I'm an undergraduate Computer Science student.
-- A self-taught engineer with over 6 years experience.
-- Building applications that provide utility to others and myself.
-- Connecting with like-minded builders, creators, and mentors.
+- 🎓 Undergraduate Computer Science student
+- 💻 6+ years of self-taught engineering experience
+- 🎯 Focus on full-stack development and creating practical solutions
+- 🎥 Content creator on [Youtube](https://youtube.com/@sachiyabamise)
+- 🎌 Anime and manga enthusiast
 
-## Things you'll find me doing aside coding
+## 🛠️ Tech Stack & Tools
+### Languages & Frameworks:
+JavaScript/TypeScript | Node.js | React | Next.js | Expressjs | Nestjs |
+Python | HTML/CSS | SQL | Golang
+### Technologies:
+Git | Postgresql | Mongo DB | Linux | Neovim | PrismaORM | TypeORM
 
-- Posting content on [Youtube](https://youtube.com/@manuelbamise1)
-- Watching Anime
-- Reading - The book i've enjoyed reading the most till date is ``The prince by Machiavelli``
+### Currently Learning:
+Advanced System Design & DevOps Practices
 
 ## Code Stats
 ![bamise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelbamise&show_icons=true&theme=dark)  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=manuelbamise&theme=dark)
