@@ -1,20 +1,21 @@
  <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/88f8eacb-f480-4529-841d-5689258888d2.svg" alt="manuelbamise" /></p>
+ 
+# 👋 Hey, I'm BAMS
 
+**Software Engineer | API Design, Database Integration & Server-side development**
+> _I build, break, learn and repeat._
 
-## About me
+---
 
-- 🎓 Undergraduate Computer Science student
-- 💻 6+ years of self-taught engineering experience
-- 🎯 Focus on full-stack development and creating practical solutions
-- 🎥 Content creator
-- 🎌 Anime and manga enthusiast
+## 🧩 Core Skills
 
-## 🛠️ Tech Stack & Tools
-### Languages & Frameworks:
-JavaScript/TypeScript | Node.js | React | Next.js | Expressjs | Nestjs |
-Python | HTML/CSS | SQL | Golang
-### Technologies:
-Git | Postgresql | Mongo DB | Linux | Neovim | PrismaORM | TypeORM
+-   **Frontend Engineering:** React, Vue, Next.js, HTML, CSS, TailwindCSS
+-   **Backend Engineering:** Node.js (NestJS, Express, Hono)
+-   **Languages:** TypeScript, Golang
+-   **Databases:** PostgreSQL, MongoDB, MySQL, SQLite
+-   **Automation & Bots:** WhatsApp
+-   **Other Tools:** Linux, Neovim, Git, Bash
+
 
 ### Currently Learning:
 Advanced System Design & DevOps Practices
@@ -28,7 +29,8 @@ Advanced System Design & DevOps Practices
 ![Visitor Count](https://count.getloli.com/get/@manuelbamise?theme=rule34)
 
 
-## Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-t-5197512b2/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/manuelbamise)
+## 🌐 Links
+
+-   **X (Twitter):** https://x.com/sachiyabamise
+-   **Email:** bamise.dev@gmail.com
 
