@@ -29,8 +29,3 @@ Advanced System Design & DevOps Practices
 ![Visitor Count](https://count.getloli.com/get/@manuelbamise?theme=rule34)
 
 
-## 🌐 Links
-
--   **X (Twitter):** https://x.com/sachiyabamise
--   **Email:** bamise.dev@gmail.com
-
