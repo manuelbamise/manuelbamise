@@ -11,6 +11,7 @@
 | 💼 **Role** | Software Engineer |
 | ⏳ **Experience** | 7+ Years |
 | 💻 **Languages** | Typescript, Golang  |
+| ⚙️ **Tools**  | React, Vue, Express, Nestjs, Postgres, Prisma, TypeOrm |
 | 🎯 **Interests** | Backend Engineering, System Architecture, MVP Development, Product Engineering |
 | 🟢 **Status** | Open to Work & New Opportunities |
    
