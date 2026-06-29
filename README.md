@@ -3,6 +3,17 @@
   
  <img src="./motto.svg" alt="motto" height=100>
    <br><br>
+<!-- | 👤 **Name** | Ravishka Wijerathna | -->
+
+| 🏷️ | Details |
+|:---:|:---|
+| 📍 **Location** | Nigeria 🇳🇬 |
+| 💼 **Role** | Software Engineer |
+| ⏳ **Experience** | 7+ Years |
+| 💻 **Languages** | Typescript, Golang  |
+| 🎯 **Interests** | Backend Engineering, System Architecture, MVP Development, Product Engineering |
+| 🟢 **Status** | Open to Work & New Opportunities |
+   
  
 <a href="https://follow.lazybittu.workers.dev/user/manuelbamise">
 					<picture>
