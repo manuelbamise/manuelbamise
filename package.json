@@ -1,0 +1,24 @@
+{
+  "name": "manuelbamise",
+  "version": "1.0.0",
+  "description": "<p><img align=\"center\" style=\"width:10rem\" src=\"https://wakatime.com/badge/user/88f8eacb-f480-4529-841d-5689258888d2.svg\" alt=\"manuelbamise\" /></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelbamise/manuelbamise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manuelbamise/manuelbamise/issues"
+  },
+  "homepage": "https://github.com/manuelbamise/manuelbamise#readme",
+  "dependencies": {
+    "@octokit/rest": "^22.0.1"
+  }
+}

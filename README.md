@@ -9,7 +9,7 @@
 |:---:|:---|
 | 📍 **Location** | Nigeria 🇳🇬 |
 | 💼 **Role** | Software Engineer |
-| ⏳ **Experience** | 7+ Years |
+| ⏳ **Experience** |  <p>  7+ Years </p> |
 | 💻 **Languages** | Typescript, Golang  |
 | ⚙️ **Tools**  | React, Vue, Express, Nestjs, Postgres, Prisma, TypeOrm |
 | 🎯 **Interests** | Backend Engineering, System Architecture, MVP Development, Product Engineering |
@@ -26,5 +26,3 @@
  
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@manuelbamise?theme=rule34)
-
-
