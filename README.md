@@ -9,7 +9,7 @@
 |:---:|:---|
 | 📍 **Location** | Nigeria 🇳🇬 |
 | 💼 **Role** | Software Engineer |
-| ⏳ **Experience** |  <p>  7+ Years </p> |
+| ⏳ **Experience** |  <!-- Begin_dynamic -->  3+ Years <!-- End_dynamic --> |
 | 💻 **Languages** | Typescript, Golang  |
 | ⚙️ **Tools**  | React, Vue, Express, Nestjs, Postgres, Prisma, TypeOrm |
 | 🎯 **Interests** | Backend Engineering, System Architecture, MVP Development, Product Engineering |

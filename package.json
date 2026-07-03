@@ -1,6 +1,7 @@
 {
   "name": "manuelbamise",
   "version": "1.0.0",
+  "type": "module",
   "description": "<p><img align=\"center\" style=\"width:10rem\" src=\"https://wakatime.com/badge/user/88f8eacb-f480-4529-841d-5689258888d2.svg\" alt=\"manuelbamise\" /></p>",
   "main": "index.js",
   "scripts": {
@@ -13,7 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/manuelbamise/manuelbamise/issues"
   },
