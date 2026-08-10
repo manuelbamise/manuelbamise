@@ -13,7 +13,7 @@
 | 💻 **Languages** | Typescript, Golang  |
 | ⚙️ **Tools**  | React, Vue, Express, Nestjs, Postgres, Prisma, TypeOrm |
 | 🎯 **Interests** | Backend Engineering, System Architecture, MVP Development, Product Engineering |
-| 🟢 **Status** | Open to Work & New Opportunities |
+<!-- | 🟢 **Status** | Open to Work & New Opportunities | -->
    
  
 <a href="https://follow.lazybittu.workers.dev/user/manuelbamise">
